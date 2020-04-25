@@ -1,0 +1,11 @@
+C:\Users\ashum\source\repos\ServerFirst\ServerFirst\bin\Debug\netcoreapp3.1\ServerFirst.exe
+C:\Users\ashum\source\repos\ServerFirst\ServerFirst\bin\Debug\netcoreapp3.1\ServerFirst.deps.json
+C:\Users\ashum\source\repos\ServerFirst\ServerFirst\bin\Debug\netcoreapp3.1\ServerFirst.runtimeconfig.json
+C:\Users\ashum\source\repos\ServerFirst\ServerFirst\bin\Debug\netcoreapp3.1\ServerFirst.runtimeconfig.dev.json
+C:\Users\ashum\source\repos\ServerFirst\ServerFirst\bin\Debug\netcoreapp3.1\ServerFirst.dll
+C:\Users\ashum\source\repos\ServerFirst\ServerFirst\bin\Debug\netcoreapp3.1\ServerFirst.pdb
+C:\Users\ashum\source\repos\ServerFirst\ServerFirst\obj\Debug\netcoreapp3.1\ServerFirst.csprojAssemblyReference.cache
+C:\Users\ashum\source\repos\ServerFirst\ServerFirst\obj\Debug\netcoreapp3.1\ServerFirst.AssemblyInfoInputs.cache
+C:\Users\ashum\source\repos\ServerFirst\ServerFirst\obj\Debug\netcoreapp3.1\ServerFirst.AssemblyInfo.cs
+C:\Users\ashum\source\repos\ServerFirst\ServerFirst\obj\Debug\netcoreapp3.1\ServerFirst.dll
+C:\Users\ashum\source\repos\ServerFirst\ServerFirst\obj\Debug\netcoreapp3.1\ServerFirst.pdb
