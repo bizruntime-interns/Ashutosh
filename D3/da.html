@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<head>
+    <style>
+        #container {
+            height: 100px;
+            width: 100px;
+            background-color: black;
+        }
+    </style>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>D3 Experiments</title>
+    <p>First paragraph</p>
+    <p>Second paragraph</p>
+    <p></p>
+
+    <div id="container"></div>
+
+    <svg width="500" height="500">
+        <rect x="0" y="0" width="200" height="200"></rect>
+    </svg>
+
+<script>
+d3.select("p").style("color", "green");
+d3.select("p").text("This is paragraph.")
+
+d3.select("#container")
+          .transition()
+          .duration(1000)
+          .style("background-color", "red");
+
+</script>
+</head>
+<body>
+    
+</body>
+</html>
