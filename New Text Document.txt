@@ -1,0 +1,30 @@
+create : ng new filename
+run: ng serve
+
+create new component: ng g c componentname(g-generate,c-component)	components are building blocks of angu
+
+inline templates can be given in app.component.ts file.
+
+Interpolation is evaluating in {{}}//like add concat,bind class etc but cant assignments to variable in {{}} and global javascript variables 
+
+Attributs are defined by HTML,values cannot be changed
+and Property are defined DOM can be changed
+
+Property Binding<input [id]="some_variable" value=""> used to assign bools also where as interpolation can handle only strings
+
+style binding  <h3 [style.color]="highlightcolor">Style Binding</h3> 
+  <h3 [ngStyle]="titleStyles">Style Binding 3</h3>  using ngStyle.
+
+
+Event Binding
+$event gives all info about dom event that was raised 
+
+Template Reference:From view to class for validation or other
+
+Two way binding update property and display value of propertyat same time.
+
+uses ngmodel[(ngModel)] //like banana in box.
+
+Service-A class with specific purpose.like share data,inplement logic ,external interaction.Exampple::filename.service.ts
+
+to create service:ng g s service_name
